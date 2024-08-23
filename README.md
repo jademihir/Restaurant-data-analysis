@@ -1,0 +1,1 @@
+Project Overview: This project involves analyzing a dataset of restaurants to uncover insights about their ratings, pricing, and services such as online delivery and table booking. The goal is to identify trends and patterns that can help restaurant owners optimize their offerings based on customer preferences.
